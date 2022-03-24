@@ -184,7 +184,7 @@ Information Wastes
 Lean Systems Engineering and Integrated Concurrent Engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/9_mit_sys_engmfg)) (Courtesy of Allen Haggerty. Used with permission.)
+([PDF - 2.5 MB]({{< baseurl >}}/resources/9_mit_sys_engmfg)) (Courtesy of Allen Haggerty. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +218,7 @@ Corporate Culture and Change (Schein)
 Empowerment and Motivation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/11_ppl_and_organ))
+([PDF]({{< baseurl >}}/resources/11_ppl_and_organ))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +250,7 @@ _Lean Enterprise Self-Assessment Tool_ _(LESAT)_
 How do I Assess My Progress? (LESAT)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/13_lesat))
+([PDF]({{< baseurl >}}/resources/13_lesat))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +350,7 @@ Global Environment
 {{< tdopen >}}
 Enterprise Integration ([PDF]({{< baseurl >}}/resources/16_ent_integrat))  
   
-Enterprise Architecting (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/19_ent_architect))
+Enterprise Architecting ([PDF]({{< baseurl >}}/resources/19_ent_architect))
 {{< tdclose >}}
 
 {{< trclose >}}

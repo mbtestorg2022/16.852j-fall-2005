@@ -6,6 +6,7 @@ description: This resource provides information about Stakeholder Analysis in th
   of Master of Science in Engineering and Management.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-852j-integrating-the-lean-enterprise-fall-2005/815f96a90001b197f1db59303a8c9f8a_grossi_thesis.pdf
 file_type: application/pdf
+parent_uid: 298e5fe3-3ff1-c85b-bfe9-e4b9d48cef52
 resourcetype: Document
 title: grossi_thesis.pdf
 uid: 815f96a9-0001-b197-f1db-59303a8c9f8a

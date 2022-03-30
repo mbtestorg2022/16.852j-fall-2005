@@ -5,6 +5,7 @@ description: This resource provides information on topics such as impact of comp
   integration, and a case study on product data management.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-852j-integrating-the-lean-enterprise-fall-2005/f66ae46fd4a7dee7563031d6a0a0dc6a_14_ent_info_sys.pdf
 file_type: application/pdf
+parent_uid: 5f2d46a9-0716-ea95-1809-6d91eb1a5a16
 resourcetype: Document
 title: 14_ent_info_sys.pdf
 uid: f66ae46f-d4a7-dee7-5630-31d6a0a0dc6a

@@ -5,6 +5,7 @@ description: This resource provides information on topics such as lean enterpris
   issues, and key principles of change management.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-852j-integrating-the-lean-enterprise-fall-2005/f84f6e7cb9651c166d4192c1738ba996_6_trans_leanroad.pdf
 file_type: application/pdf
+parent_uid: 5f2d46a9-0716-ea95-1809-6d91eb1a5a16
 resourcetype: Document
 title: 6_trans_leanroad.pdf
 uid: f84f6e7c-b965-1c16-6d41-92c1738ba996
